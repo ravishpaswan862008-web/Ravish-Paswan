@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Video Insta</string>
+    <string name="tagline_strict_shield">Strict Shield • Zero Fake IDs • Zero AI Edits</string>
+
+    <!-- Navigation -->
+    <string name="nav_feed">Feed</string>
+    <string name="nav_reels">Reels</string>
+    <string name="nav_create">Create</string>
+    <string name="nav_messages">Messages</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Onboarding / Anti-Fake ID Gate -->
+    <string name="verify_title">Verify Your Real Identity</string>
+    <string name="verify_subtitle">Video Insta enforces one verified human per account. Fake, bot, or duplicate IDs are strictly blocked.</string>
+    <string name="verify_full_name_label">Legal Full Name</string>
+    <string name="verify_handle_label">Unique Handle (without @)</string>
+    <string name="verify_phone_label">10-Digit Mobile Number</string>
+    <string name="verify_id_code_label">Verified ID Number (8–12 alphanumeric)</string>
+    <string name="verify_take_selfie">Capture Live Liveness Selfie</string>
+    <string name="verify_selfie_captured">Live Selfie Captured ✓</string>
+    <string name="verify_submit_button">Activate Verified Account</string>
+    <string name="verify_camera_permission_rationale">Camera permission is needed to capture a live human selfie and verify you are not a bot or fake ID.</string>
+
+    <!-- Feed & Stories -->
+    <string name="stories_your_story">Your Story</string>
+    <string name="badge_verified_human">Verified Human</string>
+    <string name="badge_authentic_capture">Authentic Capture ✓</string>
+    <string name="action_block_creator">Block Creator</string>
+    <string name="action_unblock_creator">Unblock Creator</string>
+    <string name="action_message_creator">Message</string>
+    <string name="blocked_policy_banner">Blocked: Videos &amp; Reels are hidden, but messaging remains open.</string>
+    <string name="blocked_videos_hidden_title">Videos &amp; Reels Hidden</string>
+    <string name="blocked_videos_hidden_desc">You blocked this creator. Their videos and stories are hidden across Video Insta, while direct messaging remains active.</string>
+
+    <!-- Create / AI-Edit Blocker -->
+    <string name="create_screen_title">Authentic Studio</string>
+    <string name="create_policy_notice">Strict Media Policy: AI-edited, synthetic, or manipulated photos are strictly prohibited and automatically blocked.</string>
+    <string name="create_ai_placeholder_notice">Local EXIF + Placeholder AI Scan active. Connect Firebase AI Logic for cloud Gemini multimodal forensics.</string>
+    <string name="create_capture_camera">Live Camera Capture</string>
+    <string name="create_pick_gallery">Pick via Photo Picker</string>
+    <string name="create_test_ai_block">Simulate AI-Edited Photo Test</string>
+    <string name="create_publish_button">Publish Authentic Post</string>
+    <string name="create_blocked_title">UPLOAD BLOCKED: AI-Edited Photo</string>
+    <string name="create_verified_title">VERIFIED: Authentic Capture</string>
+    <string name="create_caption_label">Write a caption...</string>
+    <string name="create_location_label">Location (optional)</string>
+
+    <!-- Messages -->
+    <string name="messages_title">Direct Messages</string>
+    <string name="messages_subtitle">Messaging stays active even if a creator is blocked</string>
+    <string name="chat_input_placeholder">Send a message...</string>
+    <string name="chat_blocked_pill">Blocked • Videos Hidden • Chat Active</string>
+    <string name="chat_hidden_video_attachment">Video attachment hidden because this creator is blocked.</string>
+
+    <!-- Comments -->
+    <string name="comments_title">Comments</string>
+    <string name="comments_input_placeholder">Add a genuine comment...</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Video Insta",
+  "description": "Authentic social video & photo app featuring Reels, Stories, strict verified human identity (anti-fake ID), and AI-edited image detection & blocking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
